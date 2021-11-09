@@ -1,2 +1,2 @@
-# Rad-d20
-Rad d20
+# Rad20
+Rad20
